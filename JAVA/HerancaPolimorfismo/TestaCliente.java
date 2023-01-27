@@ -118,3 +118,4 @@ public class PessoaJuridica extends Cliente {
                 "cnpj: " + cnpj + "\n");
     }
 }
+// extends 
